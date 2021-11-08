@@ -1,7 +1,3 @@
-ford focus
-subaru legacy
-hyundai i40
-mazda axela
-honda insight
-mark x
-audi 4
+bmw x5
+mercedes benz
+aston martin
